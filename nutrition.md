@@ -48,7 +48,12 @@ Fat loss is driven by the **calorie deficit**; muscle is protected by **protein*
 | Whey — 2 scoops (ON double choc) | 48 | 6 | 3 | 240 |
 | Creatine — 5 g (MB mango) | 0 | 1 | 0 | 5 |
 | Isabgol — 1 scoop | 0 | 0 | 0 | 0 |
-| **RUNNING TOTAL** | **~83** | **~46** | **~23** | **~725** |
+| Sourdough — 2 small slices | 6 | 30 | 1.5 | 150 |
+| Chicken + egg omelette | 30 | 4 | 22 | 330 |
+| Buffalo sauce | 0 | 2 | 6 | 60 |
+| Hashbrown (1 small) | 1 | 15 | 9 | 140 |
+| Paneer — 200 g (full-fat) | 36 | 6 | 40 | 590 |
+| **RUNNING TOTAL** | **~156** | **~103** | **~102** | **~2,005** |
 | **TARGET** (low-carb) | 160–180 | ~50–80 | 60–80 | ~1,700 |
 
 **Not yet logged — confirm when actually eaten:** coffee w/ milk+sugar · 2nd chicken serving · 6 egg whites · 100 g paneer · Epigamia yogurt 85 g. Tell me "had X" and I'll move it up.
