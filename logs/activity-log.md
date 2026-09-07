@@ -4,6 +4,13 @@ Walks (daily), cardio (Tue/Thu), and anything else your watch tracks. Paste numb
 
 > ⚠️ **Don't eat back these calories.** Apple Watch calorie burn has ~20–30% error (worse for lifting — it overestimates). HR is accurate; kcal is a rough guess. Hold your food intake flat at the plan (~1,750 kcal) and let the **Monday InBody + scale trend** decide adjustments — never "refuel" off the watch number.
 
+## Daily energy — Apple total burn vs intake
+Trend only. Apple burn likely overstated ~15–20% (worse on lifting days), so treat the deficit as an *optimistic ceiling* — the **Monday InBody/scale is the real judge**.
+
+| Date | Apple total burn | Intake (from nutrition log) | Apparent deficit |
+|------|------------------|------------------------------|------------------|
+| Mon 7 Sep | 2,819 | ~2,005 | ~814 (real likely ~500–800) |
+
 ## Daily walk (7am target: 6–6.5 km)
 | Date | Distance (km) | Time | Avg HR | Active kcal | Notes |
 |------|---------------|------|--------|-------------|-------|
