@@ -2,15 +2,15 @@
 
 Fat loss is driven by the **calorie deficit**; muscle is protected by **protein**. Your [scan history](./logs/inbody-history.md) proves it — every time protein stayed high, SMM held at ~38 kg through the cut. That's the whole game.
 
-## 🎯 Daily targets (for the 85 kg stretch goal)
+## 🎯 Daily targets (low-carb, for the 85 kg stretch goal)
 | Macro | Target | ≈ kcal | Notes |
 |-------|--------|--------|-------|
-| **Protein** | **160–180 g** | 640–720 | non-negotiable — the muscle guardian |
-| **Carbs** | **~130–170 g** | 520–680 | flex fuel — time most **around the workout** (rice/oats/banana/potato) |
-| **Fat** | **~45–60 g** | 400–540 | keep **≥45 g** for hormones; watch hidden fat (full-fat paneer, oil, nuts) |
-| **TOTAL** | | **~1,700–1,800 kcal** | steep but sustainable (NOT ~1,000 — that loses muscle & rebounds) |
+| **Protein** | **160–180 g** | 640–720 | non-negotiable — the muscle guardian (hard target) |
+| **Carbs** | **low by design, ~50–80 g** | 200–320 | from veg / dal / incidental — not a number to "hit" |
+| **Fat** | **~60–80 g** | 540–720 | your main calorie lever on low-carb; keep it up so calories don't crash |
+| **TOTAL** | | **~1,650–1,800 kcal** | **floor ~1,600** — below this you risk muscle & rebound |
 
-**Rough split:** ~40% protein / ~35% carbs / ~25% fat. Protein and total calories are the hard targets; carbs vs fat can flex day to day (more carbs on training days is ideal).
+**Split (low-carb):** ~40% protein / ~15% carbs / ~45% fat. Protein and total calories are the hard targets; on low-carb, **fat is what keeps calories from dropping too low.** If a day runs light, top up with fat/protein (nuts, eggs, paneer) — not carbs.
 
 | Also daily | | |
 |-----------|--|--|
@@ -49,7 +49,7 @@ Fat loss is driven by the **calorie deficit**; muscle is protected by **protein*
 | Creatine — 5 g (MB mango) | 0 | 1 | 0 | 5 |
 | Isabgol — 1 scoop | 0 | 0 | 0 | 0 |
 | **RUNNING TOTAL** | **~83** | **~46** | **~23** | **~725** |
-| **TARGET** | 160–180 | 130–170 | 45–60 | ~1,750 |
+| **TARGET** (low-carb) | 160–180 | ~50–80 | 60–80 | ~1,700 |
 
 **Not yet logged — confirm when actually eaten:** coffee w/ milk+sugar · 2nd chicken serving · 6 egg whites · 100 g paneer · Epigamia yogurt 85 g. Tell me "had X" and I'll move it up.
 
