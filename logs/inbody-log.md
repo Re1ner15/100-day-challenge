@@ -4,7 +4,7 @@
 
 | Week | Date | Weight (kg) | Skeletal Muscle Mass (kg) | Body Fat Mass (kg) | Body Fat % | PBF trend | Notes / how training felt |
 |------|------|-------------|---------------------------|--------------------|-----------|-----------|---------------------------|
-| 0 (baseline, calib) | Mon 31 Aug |  |  |  |  | — |  |
+| 0 (baseline) | Mon 7 Sep | 98.8 | 38.2 | 32.2 | 32.6 | — | InBody score 69/100 · BMI 32.3 · visceral fat lvl 15 · FFM 66.6 · protein 13.3 · BMR 1808 · W/H 1.07 |
 | 1  | Mon 7 Sep  |  |  |  |  |  |  |
 | 2  | Mon 14 Sep |  |  |  |  |  |  |
 | 3  | Mon 21 Sep |  |  |  |  |  |  |

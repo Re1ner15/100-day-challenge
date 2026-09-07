@@ -10,7 +10,7 @@ Walks (daily), cardio (Tue/Thu), and anything else your watch tracks. Paste numb
 ## Cardio (Tue / Thu)
 | Date | Type | Time | Avg HR | Max HR | Active kcal | Notes |
 |------|------|------|--------|--------|-------------|-------|
-|  |  |  |  |  |  |  |
+| Mon 7 Sep | Indoor Run (treadmill) | 21:52 | 138 | 152 | 184 (230 total) | 1.15 km, pace 18'53"/km, cadence 82 spm — post-lifting, Zone 1 |
 
 ## Abs (Tue / Thu)
 | Date | Exercises / circuit | Notes |

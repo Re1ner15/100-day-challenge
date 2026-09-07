@@ -14,15 +14,20 @@ Keep **≥2 reps in reserve (RIR)** on every set. In a deficit, grinding to fail
 ## Baseline loads
 Calibrated in the **prep week** — you'll find these in the gym. See [`../prep/calibration.md`](../prep/calibration.md). Your rough starting guesses (from memory) are below; confirm or correct them during calibration. Barbell = **kg per side, not counting the bar**. DBs = **per hand**.
 
+**Calibrated Day 1 (Mon 7 Sep):**
+
 | Exercise | Reps (S1/S2/S3) | Set 1 | Set 2 | Set 3 |
 |----------|-----------------|-------|-------|-------|
-| Barbell Flat Chest Press | 12/10/8 | ~10 /side | ~15 /side | ~17.5 /side |
-| Incline DB Chest Press | 12/10/8 | ~10 | ~12.5 | ~15 |
-| Chest Fly | 12/12/10 | calibrate | calibrate | calibrate |
-| Barbell Shoulder Press | 12/10/8 | bar only | +5 /side | +7.5 /side |
-| Side Raise (DB) | 15/12/12 | ~7.5 | ~10 | ~12.5 |
-| Tricep Pushdown | 12/12/10 | calibrate | calibrate | calibrate |
-| Seated Dips | 12/10/8 | calibrate | calibrate | calibrate |
+| Barbell Flat Chest Press | 12/10/8 | 10 /side | 15 /side | 15 /side |
+| Incline DB Chest Press | 12/10/8 | 10 | 12.5 | 15 |
+| Chest Fly (machine) | 12/10/8 | 40 | 45 | 50 |
+| Barbell Shoulder Press | reps-only (now 8/6/5) | bar | bar | bar |
+| Side Raise (DB) | 12/10/8 | 7.5 | 7.5 | 7.5 |
+| Tricep Pushdown | 12/10/8 | 35 | 40 | 45 |
+| Seated Dips | 12/10/8 | _not done Day 1_ |  |  |
+
+> **Warm-up done:** flat bench, empty bar × 20 before working sets.
+> **Coaching notes:** (1) Flat press Set 2 & 3 were both 15/side — next time either push Set 3 to **17.5/side** or add reps at 15 (tell me your RIR). (2) Shoulder press is bar-only at 8/6/5 reps — plenty of room to **build reps to 12/10/8** before ever adding weight. (3) Side raise held 7.5 across all sets — that's fine, chase reps. (4) Seated dips got skipped — add them next Push.
 
 > **Shoulder press note:** tight traps limit loading here — that's fine. We progress this one on **reps only**, not weight. No pressure to add plates.
 
@@ -42,7 +47,7 @@ Cell format per exercise = `set1 / set2 / set3` weights, and jot reps+RIR in Not
 
 | Wk | Flat Press | Incline DB | Chest Fly | Shldr Press | Side Raise | Pushdown | Dips | Notes (reps / RIR / feel) |
 |----|-----------|-----------|-----------|-------------|-----------|----------|------|---------------------------|
-| 1 |  |  |  |  |  |  |  | _targets from calibration_ |
+| 1 (7 Sep, calib) | 10/15/15 | 10/12.5/15 | 40/45/50 | bar/bar/bar (8/6/5) | 7.5/7.5/7.5 | 35/40/45 | skipped | Watch: 1:00:20, avg HR 112, max 153, 480 kcal |
 | 2 |  |  |  |  |  |  |  |  |
 | 3 |  |  |  |  |  |  |  |  |
 | 4 |  |  |  |  |  |  |  |  |
