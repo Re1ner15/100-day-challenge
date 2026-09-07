@@ -37,6 +37,7 @@ Fat loss is driven by the **calorie deficit**; muscle is protected by **protein*
 **Facts only.** An item is logged only after you confirm you've *actually eaten* it — planning/intending doesn't count. Say "had X" and it goes in; I never log plans. Drop screenshots in [`uploads/`](./uploads/) if easier.
 
 ### Day 1 — Mon 7 Sep
+_Totals as of 9:48 PM (effectively final for the day)._
 
 **Eaten (confirmed):**
 | Meal | Protein (g) | Carbs (g) | Fat (g) | ~kcal |
