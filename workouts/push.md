@@ -1,4 +1,4 @@
-# PUSH — Wed (~14 sessions)
+# PUSH — Mon (~14 sessions)
 
 ## Set scheme (your pyramid)
 3 sets per exercise, **weight up / reps down**:

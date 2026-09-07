@@ -1,10 +1,10 @@
-# LEGS — Mon (~14 sessions)
+# LEGS — Fri (~14 sessions)
 
 ## Set scheme
 Same pyramid as Push (12 / 10 / 8, weight up as reps down), **≥2 RIR**.
 Progression rules identical to [`push.md`](./push.md): Phase A rep-build (cap 15/13/11) → Wk8 deload → Phase B load-test.
 
-> **Squat note:** after a 6 km morning walk + in a deficit, keep 1–2 solid reps in reserve on the top set. Legs recover slower than upper body when cutting.
+> **Squat note:** after a 6 km morning walk + in a deficit, keep 1–2 solid reps in reserve on the top set. Legs recover slower than upper body when cutting. **Deadlifts were Wed (2 days prior)** — if your lower back/hams feel beat up, keep squats conservative or lead with a machine (leg press) that day.
 
 ## Baseline loads — _from calibration_
 

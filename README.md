@@ -1,30 +1,29 @@
 # 100 Days — Fat Loss + Muscle Maintenance
 
-**Prep / calibration week (NOT counted):** Mon 31 Aug – Sun 6 Sep 2026 (baseline InBody here).
-**100 days start:** Mon 7 Sep 2026 (Day 1) · **End:** Tue 15 Dec 2026 (Day 100).
-**Deload:** Week 8 (26 Oct – 1 Nov).
+**Day 1:** Mon 7 Sep 2026 (baseline InBody + calibration done this day) · **Day 100:** Tue 15 Dec 2026.
+**Deload:** Week 8 (26 Oct – 1 Nov). **Final scan:** Week 15 (Mon 14 Dec).
 **Goal:** Lose fat, maintain (and where possible build) muscle.
 **Master signal:** Weekly InBody scan → we steer everything off this.
 
 **🎯 Day-100 target** (evidence-based, from your own [scan history](./logs/inbody-history.md)):
 | | Now (7 Sep) | Target (15 Dec) |
 |---|---|---|
-| Weight | 98.8 kg | **~91 kg** |
-| Fat mass | 32.2 kg | **~24 kg** |
-| Body Fat % | 32.6% | **~26%** |
+| Weight | 98.8 kg | **~88 kg** (primary) · **85 kg** (stretch) |
+| Fat mass | 32.2 kg | **~22–24 kg** |
+| Body Fat % | 32.6% | **~24–26%** |
 | Muscle (SMM) | 38.2 kg | **≥ 38 (hold)** |
 | Visceral fat | 15 | **≤ 12** |
 
-→ this would beat your leanest-ever scan (May 2025). You've hit this fat-loss rate before — the job is consistency for 100 days.
+→ this would beat your leanest-ever scan (May 2025). 85 kg is reachable only if protein stays 160–180 g, calories controlled, and no missed sessions. **A lean 88 kg with muscle intact beats a soft 85 kg with muscle lost.**
 
 ## Weekly structure
 | Day | Morning (7am) | Gym (10am) |
 |-----|---------------|------------|
-| Mon | Walk 6–6.5 km | **Legs** |
+| Mon | Walk 6–6.5 km | **Push** |
 | Tue | Walk 6–6.5 km | Cardio + Abs |
-| Wed | Walk 6–6.5 km | **Push** |
+| Wed | Walk 6–6.5 km | **Pull** |
 | Thu | Walk 6–6.5 km | Cardio + Abs |
-| Fri | Walk 6–6.5 km | **Pull** |
+| Fri | Walk 6–6.5 km | **Legs** |
 | Sat | Walk 6–6.5 km | Rest |
 | Sun | Walk 6–6.5 km | Rest |
 

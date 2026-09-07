@@ -43,3 +43,17 @@ Based on *your own* demonstrated fat-loss rate (~0.6–0.7 kg fat/week in a stru
 | Visceral | 15 | 12 | **≤ 12** |
 
 That would make this your **leanest, best composition on record** — beating your May 2025 peak. Totally achievable at the rate you've already proven you can hit.
+
+## What your data says about your body type & tendencies
+
+**Body type: muscular endomorph (meso-endo).** You carry a lot of muscle (SMM 37–39 kg is well above average for 175 cm) *and* store fat easily. Big, strong frame — you gain and hold muscle readily, but fat comes on just as readily when structure drops.
+
+**Your tendencies, from 19 months of scans:**
+1. **Muscle is bulletproof — protect, don't chase.** SMM never fell below ~37 even in your worst phases. You don't have to fear muscle loss the way a lean person does; keep protein high and it stays. This is a genetic gift.
+2. **Fat gain is fast off-plan.** +4 kg fat in a few unstructured months, twice. You respond strongly to *overfeeding*, so casual eating drifts you up quickly.
+3. **You respond fast to a structured deficit.** Feb–May 2025 you dropped fat quickly and cleanly. Good metabolic responsiveness — when you're dialed in, results come.
+4. **Android (belly/visceral) fat storage.** Waist-hip 1.03–1.13, trunk fat is your biggest depot (16–21 kg), visceral level swings 12–18. Good news: this pattern **mobilizes first** in a cut — your waist and visceral fat drop early and visibly.
+5. **Cyclical "yo-yo" pattern with a set point near ~98 kg.** You keep drifting back to ~98 kg. **Losing fat isn't your problem — you can clearly do it. Keeping it off is.** The 100 days break the cycle; a maintenance plan afterward is what makes it stick.
+6. **Good cellular health.** Phase angle 8.9–9.3 and balanced left/right segments = quality muscle, no red flags.
+
+**The one-line takeaway:** you're built to be strong and lean, but you regain fast without structure. So the real win isn't Day 100 — it's not drifting back to 98 kg after. Bank that mindset now.

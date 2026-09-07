@@ -1,4 +1,4 @@
-# PULL — Fri (~14 sessions)
+# PULL — Wed (~14 sessions)
 
 ## Set scheme
 Same pyramid as Push (12 / 10 / 8, weight up as reps down), **≥2 RIR**.

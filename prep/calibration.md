@@ -24,7 +24,7 @@ Typical jump between sets is roughly one increment (a DB size, or 2.5–5 kg/sid
 
 ## Fill this in during Week 1
 
-### PUSH (Wed)
+### PUSH (Mon)
 | Exercise | Set 1 (wt ×reps, RIR) | Set 2 | Set 3 |
 |----------|-----------------------|-------|-------|
 | Barbell Flat Chest Press |  |  |  |
@@ -35,7 +35,7 @@ Typical jump between sets is roughly one increment (a DB size, or 2.5–5 kg/sid
 | Tricep Pushdown |  |  |  |
 | Seated Dips |  |  |  |
 
-### PULL (Fri)
+### PULL (Wed)
 | Exercise | Set 1 (wt ×reps, RIR) | Set 2 | Set 3 |
 |----------|-----------------------|-------|-------|
 | Deadlift (3×5–6, flat) |  |  |  |
@@ -46,7 +46,7 @@ Typical jump between sets is roughly one increment (a DB size, or 2.5–5 kg/sid
 | DB Bicep Curl |  |  |  |
 | Seated Incline DB Curl |  |  |  |
 
-### LEGS (Mon)
+### LEGS (Fri)
 | Exercise | Set 1 (wt ×reps, RIR) | Set 2 | Set 3 |
 |----------|-----------------------|-------|-------|
 | Squat |  |  |  |
