@@ -29,22 +29,21 @@ Fat loss is driven by the **calorie deficit**; muscle is protected by **protein*
 | Dal | 1 bowl | ~8 g | ~150 | ok (carb+protein) |
 
 ## Daily food log
-Log what you eat; I'll tally protein/calories and flag gaps. Drop screenshots in [`uploads/`](./uploads/) if easier.
+**Facts only.** An item is logged only after you confirm you've *actually eaten* it — planning/intending doesn't count. Say "had X" and it goes in; I never log plans. Drop screenshots in [`uploads/`](./uploads/) if easier.
 
 ### Day 1 — Mon 7 Sep
+
+**Eaten (confirmed):**
 | Meal | Protein | ~kcal |
 |------|---------|-------|
 | Tea w/ milk | 2 | 40 |
-| Coffee w/ milk + little sugar | 2 | 75 |
-| Venky's grilled chicken ×2 servings | 44 | 360 |
+| Venky's grilled chicken ×1 serving | 22 | 180 |
 | Sautéed veggies (spinach, spring onion, capsicum) | 3 | 90 |
 | Dal (1 bowl) | 8 | 150 |
-| Whey — 3 scoops (ON double choc) | 72 | 360 |
+| Whey — 2 scoops (ON double choc) | 48 | 240 |
 | Creatine — 5 g (MB mango) | 0 | 5 |
-| Isabgol + water ×2 scoops | 0 | 0 |
-| 6 egg whites | 22 | 102 |
-| Paneer 100 g | 18 | 296 |
-| Epigamia Greek yogurt 85 g | 8 | 90 |
-| **TOTAL** | **~179 g** | **~1,568 kcal** |
+| **RUNNING TOTAL** | **~83 g** | **~705 kcal** |
 
-**Verdict:** ✅ excellent. Protein at ~179 g is at the **top of the 160–180 g target**, calories ~1,568 (comfortably in the deficit). Great Day 1. Only note: 3 whey scoops is a lot of powder — no problem, but lean on whole-food protein when convenient too.
+**Not yet logged — confirm when actually eaten:** coffee w/ milk+sugar · 2nd chicken serving · 6 egg whites · 100 g paneer · Epigamia yogurt 85 g · isabgol. Tell me "had X" and I'll move it up.
+
+> **Log rule:** facts only. Nothing enters the eaten table until confirmed consumed — planning ≠ eating.
