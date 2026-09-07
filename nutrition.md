@@ -39,12 +39,12 @@ Log what you eat; I'll tally protein/calories and flag gaps. Drop screenshots in
 | Venky's grilled chicken ×2 servings | 44 | 360 |
 | Sautéed veggies (spinach, spring onion, capsicum) | 3 | 90 |
 | Dal (1 bowl) | 8 | 150 |
-| Whey — 2 scoops (ON double choc) | 48 | 240 |
+| Whey — 3 scoops (ON double choc) | 72 | 360 |
 | Creatine — 5 g (MB mango) | 0 | 5 |
-| Isabgol + water | 0 | 0 |
+| Isabgol + water ×2 scoops | 0 | 0 |
 | 6 egg whites | 22 | 102 |
 | Paneer 100 g | 18 | 296 |
 | Epigamia Greek yogurt 85 g | 8 | 90 |
-| **TOTAL** | **~155 g** | **~1,448 kcal** |
+| **TOTAL** | **~179 g** | **~1,568 kcal** |
 
-**Verdict:** ✅ dialed. Protein clears the 160 g floor's practical zone (~153 g) at a lean ~1,373 kcal. Swapping the 2nd 100 g paneer → chicken + whey saved calories AND raised protein vs. the original plan. Nudge to ~160 g when easy (more egg whites / curd).
+**Verdict:** ✅ excellent. Protein at ~179 g is at the **top of the 160–180 g target**, calories ~1,568 (comfortably in the deficit). Great Day 1. Only note: 3 whey scoops is a lot of powder — no problem, but lean on whole-food protein when convenient too.
