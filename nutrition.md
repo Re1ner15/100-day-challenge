@@ -36,14 +36,15 @@ Fat loss is driven by the **calorie deficit**; muscle is protected by **protein*
 **Eaten (confirmed):**
 | Meal | Protein | ~kcal |
 |------|---------|-------|
-| Tea w/ milk | 2 | 40 |
+| Tea w/ milk + sugar (1 cup) | 2 | 60 |
 | Venky's grilled chicken ×1 serving | 22 | 180 |
-| Sautéed veggies (spinach, spring onion, capsicum) | 3 | 90 |
-| Dal (1 bowl) | 8 | 150 |
+| Sautéed veggies (1 cup: spinach, spring onion, capsicum) | 3 | 90 |
+| Dal (1 cup) | 8 | 150 |
 | Whey — 2 scoops (ON double choc) | 48 | 240 |
 | Creatine — 5 g (MB mango) | 0 | 5 |
-| **RUNNING TOTAL** | **~83 g** | **~705 kcal** |
+| Isabgol — 1 scoop | 0 | 0 |
+| **RUNNING TOTAL** | **~83 g** | **~725 kcal** |
 
-**Not yet logged — confirm when actually eaten:** coffee w/ milk+sugar · 2nd chicken serving · 6 egg whites · 100 g paneer · Epigamia yogurt 85 g · isabgol. Tell me "had X" and I'll move it up.
+**Not yet logged — confirm when actually eaten:** coffee w/ milk+sugar · 2nd chicken serving · 6 egg whites · 100 g paneer · Epigamia yogurt 85 g. Tell me "had X" and I'll move it up.
 
 > **Log rule:** facts only. Nothing enters the eaten table until confirmed consumed — planning ≠ eating.
