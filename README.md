@@ -60,6 +60,7 @@
 ## 📊 Tracking (update these, don't need them mid-set)
 | File | What for | When |
 |------|----------|------|
+| [`nutrition.md`](./nutrition.md) | Daily protein/calorie targets + food log + cheat-sheet | Daily |
 | [`logs/inbody-log.md`](./logs/inbody-log.md) | Weekly InBody scan (master signal) | Every Monday |
 | [`logs/inbody-history.md`](./logs/inbody-history.md) | Full scan history + trend + target | Reference |
 | [`logs/activity-log.md`](./logs/activity-log.md) | Apple Watch: walks, cardio, HR, calories | As you go |
