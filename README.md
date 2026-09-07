@@ -6,6 +6,17 @@
 **Goal:** Lose fat, maintain (and where possible build) muscle.
 **Master signal:** Weekly InBody scan → we steer everything off this.
 
+**🎯 Day-100 target** (evidence-based, from your own [scan history](./logs/inbody-history.md)):
+| | Now (7 Sep) | Target (15 Dec) |
+|---|---|---|
+| Weight | 98.8 kg | **~91 kg** |
+| Fat mass | 32.2 kg | **~24 kg** |
+| Body Fat % | 32.6% | **~26%** |
+| Muscle (SMM) | 38.2 kg | **≥ 38 (hold)** |
+| Visceral fat | 15 | **≤ 12** |
+
+→ this would beat your leanest-ever scan (May 2025). You've hit this fat-loss rate before — the job is consistency for 100 days.
+
 ## Weekly structure
 | Day | Morning (7am) | Gym (10am) |
 |-----|---------------|------------|
@@ -50,6 +61,7 @@
 | File | What for | When |
 |------|----------|------|
 | [`logs/inbody-log.md`](./logs/inbody-log.md) | Weekly InBody scan (master signal) | Every Monday |
+| [`logs/inbody-history.md`](./logs/inbody-history.md) | Full scan history + trend + target | Reference |
 | [`logs/activity-log.md`](./logs/activity-log.md) | Apple Watch: walks, cardio, HR, calories | As you go |
 | [`uploads/`](./uploads/) | Dump raw exports/screenshots → I file them | Anytime |
 
