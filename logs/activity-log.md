@@ -4,15 +4,15 @@ Walks (daily), cardio (Tue/Thu), and anything else your watch tracks. Paste numb
 
 > ⚠️ **Don't eat back these calories.** Apple Watch calorie burn has ~20–30% error (worse for lifting — it overestimates). HR is accurate; kcal is a rough guess. Hold your food intake flat at the plan (~1,750 kcal) and let the **Monday InBody + scale trend** decide adjustments — never "refuel" off the watch number.
 
-## Daily energy — Apple total burn vs intake
-Trend only. Apple burn likely overstated ~15–20% (worse on lifting days), so treat the deficit as an *optimistic ceiling* — the **Monday InBody/scale is the real judge**.
+## Daily energy — intake vs fixed TDEE
+**Method:** the watch can't capture full-day burn (old battery), and Apple over-estimates anyway. So we anchor on a **fixed working TDEE ≈ 2,700 kcal/day** (from BMR 1,808 + walk + lifting + cardio) and compute **deficit = 2,700 − intake**. The **Monday InBody recalibrates** this number — if fat loss runs faster/slower than predicted, we adjust the 2,700. Watch burn is a side note only.
 
-| Date | Apple total burn | Intake (from nutrition log) | Apparent deficit |
-|------|------------------|------------------------------|------------------|
-| Mon 7 Sep | 2,975 (final, 11 PM) | ~2,005 | ~970 (real likely ~600–870) |
-| Tue 8 Sep | 2,079 for 10 AM–10:13 PM only → **~24h est ~2,800** (+~730 overnight) | ~1,965 | ~835 est (real likely ~500–700) |
+| Date | Intake | Working TDEE | Est. deficit | Notes |
+|------|--------|--------------|--------------|-------|
+| Mon 7 Sep | ~2,005 | 2,700 | ~695 | watch said 2,975 burn (inflated) |
+| Tue 8 Sep | ~1,965 | 2,700 | ~735 | 7.6 km walk; client misal |
 
-> ⏱️ **Log the FULL-day burn** (midnight–midnight), not a partial window. A part-day figure misses ~700 kcal of overnight resting burn and makes the deficit look far smaller than it is.
+**TDEE recalibration (after ~2 weeks):** avg daily intake + (fat lost in kcal ÷ days) = true TDEE. Update the 2,700 then.
 
 ## Daily walk (7am target: 6–6.5 km)
 | Date | Distance (km) | Time | Avg HR | Active kcal | Notes |
