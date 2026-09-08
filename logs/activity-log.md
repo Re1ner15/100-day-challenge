@@ -14,7 +14,7 @@ Trend only. Apple burn likely overstated ~15–20% (worse on lifting days), so t
 ## Daily walk (7am target: 6–6.5 km)
 | Date | Distance (km) | Time | Avg HR | Active kcal | Notes |
 |------|---------------|------|--------|-------------|-------|
-|  |  |  |  |  |  |
+| Tue 8 Sep | 7.60 | 1:41:30 | 122 | 585 (795 total) | evening (5:21 PM), Zone 1, pace 13'21"/km, +41 m elev — **beat the 6–6.5 km target** ✅ |
 
 ## Cardio (Tue / Thu)
 | Date | Type | Time | Avg HR | Max HR | Active kcal | Notes |
