@@ -54,9 +54,23 @@ _Totals as of 9:48 PM (effectively final for the day)._
 | Buffalo sauce | 0 | 2 | 6 | 60 |
 | Hashbrown (1 small) | 1 | 15 | 9 | 140 |
 | Paneer — 200 g (full-fat) | 36 | 6 | 40 | 590 |
-| **RUNNING TOTAL** | **~156** | **~103** | **~102** | **~2,005** |
+| **DAY TOTAL** | **~156** | **~103** | **~102** | **~2,005** |
 | **TARGET** (low-carb) | 160–180 | ~50–80 | 60–80 | ~1,700 |
 
-**Not yet logged — confirm when actually eaten:** coffee w/ milk+sugar · 2nd chicken serving · 6 egg whites · 100 g paneer · Epigamia yogurt 85 g. Tell me "had X" and I'll move it up.
+_Day 1 closed. Apple burn 2,975 → apparent deficit ~970 kcal._
 
 > **Log rule:** facts only. Nothing enters the eaten table until confirmed consumed — planning ≠ eating.
+
+### Day 2 — Tue 8 Sep
+
+**Eaten (confirmed):**
+| Meal | Protein (g) | Carbs (g) | Fat (g) | ~kcal |
+|------|-------------|-----------|---------|-------|
+| Isabgol — 1 scoop | 0 | 0 | 0 | 0 |
+| Creatine — 1 scoop | 0 | 1 | 0 | 5 |
+| Whey — 1 scoop (ON) | 24 | 3 | 1.5 | 120 |
+| Misal + 3 pav (1 plate) | 24 | 100 | 22 | 700 |
+| Mirinda (1 small) | 0 | 28 | 0 | 110 |
+| Tea w/ milk + sugar (1 cup) | 2 | 8 | 1.5 | 60 |
+| **RUNNING TOTAL** | **~50** | **~140** | **~25** | **~995** |
+| **TARGET** (low-carb) | 160–180 | ~50–80 | 60–80 | ~1,700 |
