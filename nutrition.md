@@ -72,5 +72,7 @@ _Day 1 closed. Apple burn 2,975 → apparent deficit ~970 kcal._
 | Misal + 3 pav (1 plate) | 24 | 100 | 22 | 700 |
 | Mirinda (1 small) | 0 | 28 | 0 | 110 |
 | Tea w/ milk + sugar (1 cup) | 2 | 8 | 1.5 | 60 |
-| **RUNNING TOTAL** | **~50** | **~140** | **~25** | **~995** |
+| Epigamia Greek yogurt — 85 g | 8 | 4 | 4 | 80 |
+| Whey — 1 scoop (ON) | 24 | 3 | 1.5 | 120 |
+| **RUNNING TOTAL** | **~82** | **~147** | **~30** | **~1,195** |
 | **TARGET** (low-carb) | 160–180 | ~50–80 | 60–80 | ~1,700 |
