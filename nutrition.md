@@ -74,5 +74,7 @@ _Day 1 closed. Apple burn 2,975 → apparent deficit ~970 kcal._
 | Tea w/ milk + sugar (1 cup) | 2 | 8 | 1.5 | 60 |
 | Epigamia Greek yogurt — 85 g | 8 | 4 | 4 | 80 |
 | Whey — 1 scoop (ON) | 24 | 3 | 1.5 | 120 |
-| **RUNNING TOTAL** | **~82** | **~147** | **~30** | **~1,195** |
+| Venky's grilled chicken ×1 serving | 22 | 3 | 9 | 180 |
+| Paneer — 200 g (full-fat) | 36 | 6 | 40 | 590 |
+| **RUNNING TOTAL** | **~140** | **~156** | **~79** | **~1,965** |
 | **TARGET** (low-carb) | 160–180 | ~50–80 | 60–80 | ~1,700 |
