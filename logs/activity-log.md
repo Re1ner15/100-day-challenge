@@ -10,6 +10,9 @@ Trend only. Apple burn likely overstated ~15–20% (worse on lifting days), so t
 | Date | Apple total burn | Intake (from nutrition log) | Apparent deficit |
 |------|------------------|------------------------------|------------------|
 | Mon 7 Sep | 2,975 (final, 11 PM) | ~2,005 | ~970 (real likely ~600–870) |
+| Tue 8 Sep | 2,079 for 10 AM–10:13 PM only → **~24h est ~2,800** (+~730 overnight) | ~1,965 | ~835 est (real likely ~500–700) |
+
+> ⏱️ **Log the FULL-day burn** (midnight–midnight), not a partial window. A part-day figure misses ~700 kcal of overnight resting burn and makes the deficit look far smaller than it is.
 
 ## Daily walk (7am target: 6–6.5 km)
 | Date | Distance (km) | Time | Avg HR | Active kcal | Notes |
