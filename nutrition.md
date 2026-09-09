@@ -95,7 +95,9 @@ _Day 2 closed. Est. deficit ~735 (2,700 TDEE − intake). Higher-carb day (clien
 | Whey — 2½ scoops (ON) | 60 | 8 | 4 | 300 |
 | Isabgol — 1 scoop | 0 | 0 | 0 | 0 |
 | Coffee #2 (100 ml milk + ~10 g sugar) | 3 | 15 | 3 | 100 |
-| **RUNNING TOTAL** | **~145** | **~76** | **~38** | **~1,225** |
+| Long Island Iced Tea ×2½ (est.) | 0 | 80 | 0 | 825 |
+| Diet Coke ×1 | 0 | 0 | 0 | 0 |
+| **RUNNING TOTAL** | **~145** | **~156** | **~38** | **~2,050** |
 | **TARGET** (low-carb) | 160–180 | ~50–80 | 60–80 | ~1,700 |
 
 _Expected tonight (not yet logged): chicken starters — chicken in sauce, no carb/cheese/alcohol/sugary drinks. On-plan; will log a rough estimate once eaten._
