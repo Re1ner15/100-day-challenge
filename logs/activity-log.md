@@ -18,6 +18,7 @@ Walks (daily), cardio (Tue/Thu), and anything else your watch tracks. Paste numb
 | Date | Distance (km) | Time | Avg HR | Active kcal | Notes |
 |------|---------------|------|--------|-------------|-------|
 | Tue 8 Sep | 7.60 | 1:41:30 | 122 | 585 (795 total) | evening (5:21 PM), Zone 1, pace 13'21"/km, +41 m elev — **beat the 6–6.5 km target** ✅ |
+| Wed 9 Sep | 6.27 | 1:22:47 | 127 | 487 (658 total) | evening (5:22 PM), pace 13'12"/km, +13 m — on target ✅ |
 
 ## Cardio (Tue / Thu)
 | Date | Type | Time | Avg HR | Max HR | Active kcal | Notes |
