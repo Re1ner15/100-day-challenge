@@ -11,6 +11,7 @@ Walks (daily), cardio (Tue/Thu), and anything else your watch tracks. Paste numb
 |------|--------|--------------|--------------|-------|
 | Mon 7 Sep | ~2,005 | 2,700 | ~695 | watch said 2,975 burn (inflated) |
 | Tue 8 Sep | ~1,965 | 2,700 | ~735 | 7.6 km walk; client misal |
+| Wed 9 Sep | ~1,125 so far | 2,700+ | ~1,575+ so far | **3 sessions** (Pull+cardio+6.3 km walk, ~1,000 active) → real burn likely >3,000; watch 2,019 for 10:30–19:00; dinner pending |
 
 **TDEE recalibration (after ~2 weeks):** avg daily intake + (fat lost in kcal ÷ days) = true TDEE. Update the 2,700 then.
 
