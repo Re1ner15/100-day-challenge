@@ -32,4 +32,12 @@ Walks (daily), cardio (Tue/Thu), and anything else your watch tracks. Paste numb
 |------|---------------------|-------|
 |  |  |  |
 
+## Sleep (Apple Watch)
+Recovery = where muscle rebuilds + appetite hormones reset. Aim **7–8 h**. Send hours + how rested you felt.
+
+| Night (→ wake date) | Time asleep | Notes (how rested, wake-ups) |
+|---------------------|-------------|------------------------------|
+| → Thu 10 Sep |  |  |
+
 > Tip: from the iPhone Fitness app you can share a workout as an image, or export Health data — either works, just drop it in `uploads/`.
+> ⚡ **Battery:** old watch won't last sleep + full day. Charge in a fixed window (morning routine or post-gym) so it covers both.
