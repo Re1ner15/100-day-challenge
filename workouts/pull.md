@@ -19,4 +19,16 @@ Progression rules identical to [`push.md`](./push.md): Phase A rep-build (cap 15
 | Seated Incline DB Curl | 12/12/10 | _TBD_ | _TBD_ | _TBD_ |
 
 ## Weekly log
-_(Same table structure as push.md — I'll build it once weights are in.)_
+Cell format per exercise = `set1 / set2 / set3` weights; note reps + one-word feel (EASY/GOOD/HARD/MAX) in Notes.
+
+| Wk | Deadlift | Lat Pulldown | DB Row | Rear Fly | Shrugs | DB Curl | Incline Curl | Notes |
+|----|----------|--------------|--------|----------|--------|---------|--------------|-------|
+| 1 (9 Sep) | ? | ? | ? | ? | ? | ? | ? | _awaiting weights — watch only_ |
+| 2 |  |  |  |  |  |  |  |  |
+
+## Session record (Apple Watch)
+| Date | Duration | Avg HR | Max HR | Active / Total kcal |
+|------|----------|--------|--------|---------------------|
+| Wed 9 Sep | 50:00 | 121 | 156 | 329 / 430 |
+
+> ⚠️ **Watch data doesn't include your lifts.** Send me each exercise's weight × reps (and EASY/GOOD/HARD/MAX on the top set) and I'll fill the Week-1 row + set your baselines.

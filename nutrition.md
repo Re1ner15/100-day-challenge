@@ -76,5 +76,21 @@ _Day 1 closed. Apple burn 2,975 → apparent deficit ~970 kcal._
 | Whey — 1 scoop (ON) | 24 | 3 | 1.5 | 120 |
 | Venky's grilled chicken ×1 serving | 22 | 3 | 9 | 180 |
 | Paneer — 200 g (full-fat) | 36 | 6 | 40 | 590 |
-| **RUNNING TOTAL** | **~140** | **~156** | **~79** | **~1,965** |
+| **DAY TOTAL** | **~140** | **~156** | **~79** | **~1,965** |
+| **TARGET** (low-carb) | 160–180 | ~50–80 | 60–80 | ~1,700 |
+
+_Day 2 closed. Est. deficit ~735 (2,700 TDEE − intake). Higher-carb day (client misal)._
+
+### Day 3 — Wed 9 Sep (Pull day)
+
+**Eaten (confirmed):**
+| Meal | Protein (g) | Carbs (g) | Fat (g) | ~kcal |
+|------|-------------|-----------|---------|-------|
+| Venky's grilled chicken ×2 servings | 44 | 6 | 18 | 360 |
+| Sautéed veggies (1 bowl) | 3 | 8 | 5 | 90 |
+| Dal (1 bowl) | 8 | 20 | 4 | 150 |
+| Whey — 1 scoop (ON) | 24 | 3 | 1.5 | 120 |
+| Creatine — 1 scoop | 0 | 1 | 0 | 5 |
+| Coffee (100 ml milk + ~10 g sugar) | 3 | 15 | 3 | 100 |
+| **RUNNING TOTAL** | **~82** | **~53** | **~31** | **~825** |
 | **TARGET** (low-carb) | 160–180 | ~50–80 | 60–80 | ~1,700 |
