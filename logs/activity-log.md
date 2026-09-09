@@ -11,7 +11,7 @@ Walks (daily), cardio (Tue/Thu), and anything else your watch tracks. Paste numb
 |------|--------|--------------|--------------|-------|
 | Mon 7 Sep | ~2,005 | 2,700 | ~695 | watch said 2,975 burn (inflated) |
 | Tue 8 Sep | ~1,965 | 2,700 | ~735 | 7.6 km walk; client misal |
-| Wed 9 Sep | ~1,225 so far | 2,700+ | ~1,475+ so far | **3 sessions** (Pull+cardio+6.3 km walk, ~1,000 active) → real burn likely >3,000; watch 2,151 active by 19:45; dinner pending |
+| Wed 9 Sep | ~1,225 (dinner not logged) | 2,700 baseline; **actual much higher** | **too steep if no dinner** | **3 sessions**; Apple active 2,838 (by 01:30) → total burn ~3,500–4,600 → deficit likely **2,300–3,400** if intake really ~1,225. Confirm if chicken starters eaten. |
 
 **TDEE recalibration (after ~2 weeks):** avg daily intake + (fat lost in kcal ÷ days) = true TDEE. Update the 2,700 then.
 
