@@ -15,8 +15,8 @@
   ],
   "inbody": {
     "baseline": {"date": "Mon 7 Sep", "weight": 98.8, "smm": 38.2, "fat": 32.2, "pbf": 32.6, "visceral": 15},
-    "expected": null,
-    "expected_basis": "",
+    "expected": {"date": "Mon 14 Sep", "weight": 97.8, "smm": 38.2, "fat": 31.4, "pbf": 32.1, "visceral": 14},
+    "expected_basis": "Plan: ~1,750 kcal + 160 g protein -> ~950/day deficit x7 = ~6,650 kcal ~= 0.85 kg fat; muscle held.",
     "current": null
   }
 }
