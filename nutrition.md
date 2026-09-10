@@ -112,5 +112,7 @@ _Day 3 closed. Protein locked via 3½ whey scoops before going out; evening = 2�
 | Dal (1 bowl) | 8 | 20 | 4 | 150 |
 | Creatine — 1 scoop | 0 | 1 | 0 | 5 |
 | Epigamia Greek yogurt — 85 g | 8 | 4 | 4 | 80 |
-| **RUNNING TOTAL** | **~43** | **~36** | **~15** | **~445** |
+| Zest Lemongrass Chicken Banh Xeo (est.) | 22 | 35 | 18 | 390 |
+| Taiwanese Chicken Popcorn (est.) | 22 | 22 | 22 | 380 |
+| **RUNNING TOTAL** | **~87** | **~93** | **~55** | **~1,215** |
 | **TARGET** (low-carb) | 160–180 | ~50–80 | 60–80 | ~1,700 |
