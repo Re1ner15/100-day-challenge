@@ -1,0 +1,22 @@
+{
+  "week": 1,
+  "label": "Week 1 — Mon 7 → Sun 13 Sep",
+  "tdee": 2700,
+  "kcal_target": 1750,
+  "protein_floor": 160,
+  "days": [
+    {"day": "Mon 7\nPush",   "kcal": 2005, "protein": 156, "carbs": 103, "fat": 102, "active": 540},
+    {"day": "Tue 8\nWalk",   "kcal": 1965, "protein": 140, "carbs": 156, "fat": 79,  "active": 585},
+    {"day": "Wed 9\nPull",   "kcal": 2050, "protein": 145, "carbs": 156, "fat": 38,  "active": 1003},
+    {"day": "Thu 10\nCardio","kcal": 1759, "protein": 155, "carbs": 102, "fat": 78,  "active": 199},
+    {"day": "Fri 11\nLegs",  "kcal": null, "protein": null, "carbs": null, "fat": null, "active": null},
+    {"day": "Sat 12\nRest",  "kcal": null, "protein": null, "carbs": null, "fat": null, "active": null},
+    {"day": "Sun 13\nRest",  "kcal": null, "protein": null, "carbs": null, "fat": null, "active": null}
+  ],
+  "inbody": {
+    "baseline": {"date": "Mon 7 Sep", "weight": 98.8, "smm": 38.2, "fat": 32.2, "pbf": 32.6, "visceral": 15},
+    "expected": null,
+    "expected_basis": "",
+    "current": null
+  }
+}

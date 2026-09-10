@@ -1,8 +1,19 @@
 # Week 1 Summary — Mon 7 → Thu 10 Sep
 
-_(4 of 5 training days done; Legs Fri pending. Charts regenerate via [`../charts/make_week1.py`](../charts/make_week1.py).)_
+_(4 of 5 training days done; Legs Fri + weekend pending. Regenerate: `python3 charts/make_week.py 1`. Data: [`../charts/data/week-01.json`](../charts/data/week-01.json).)_
 
-![Week 1 dashboard](../charts/week-1.png)
+![Week 1 dashboard](../charts/week-01.png)
+
+## InBody: Expected vs Actual
+_(Expected computed Sun night from the week's deficit; Actual from Mon 14 scan. Chart `week-01-inbody.png` auto-generates once both are in.)_
+
+| Metric | Baseline (7 Sep) | **Expected** (Sun prediction) | **Actual** (Mon 14 scan) | Hit? |
+|--------|------------------|-------------------------------|--------------------------|------|
+| Weight (kg) | 98.8 | _TBD_ | _TBD_ | |
+| Muscle SMM (kg) | 38.2 | hold ~38.2 | _TBD_ | |
+| Fat mass (kg) | 32.2 | _TBD_ | _TBD_ | |
+| Body fat % | 32.6 | _TBD_ | _TBD_ | |
+| Visceral | 15 | _TBD_ | _TBD_ | |
 
 ## Daily numbers
 | Day | Training | kcal | Protein | Carbs | Fat | Est. deficit* | Notes |
