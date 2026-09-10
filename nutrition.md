@@ -118,5 +118,6 @@ _Day 3 closed. Protein locked via 3½ whey scoops before going out; evening = 2�
 | Isabgol — 1 scoop | 0 | 0 | 0 | 0 |
 | Paneer — 100 g (full-fat) | 18 | 3 | 20 | 296 |
 | 4 egg whites | 14 | 1 | 0 | 68 |
-| **RUNNING TOTAL** | **~143** | **~100** | **~77** | **~1,699** |
+| Whey — ½ scoop (ON) | 12 | 2 | 1 | 60 |
+| **RUNNING TOTAL** | **~155** | **~102** | **~78** | **~1,759** |
 | **TARGET** (low-carb) | 160–180 | ~50–80 | 60–80 | ~1,700 |
