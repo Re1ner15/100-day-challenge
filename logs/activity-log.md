@@ -37,7 +37,7 @@ Recovery = where muscle rebuilds + appetite hormones reset. Aim **7–8 h**. Sen
 
 | Night (→ wake date) | Time asleep | Notes (how rested, wake-ups) |
 |---------------------|-------------|------------------------------|
-| → Thu 10 Sep |  |  |
+| → Thu 10 Sep | 6 h 3 m | Sleep score 80 (OK) · fragmented — interruptions 14/20, several wake-ups ~5–6 AM · sleeping HR elevated (up to 90) · below 7–8 h target. Classic alcohol-disrupted night (late 3 AM bedtime + 2½ LIITs). |
 
 > Tip: from the iPhone Fitness app you can share a workout as an image, or export Health data — either works, just drop it in `uploads/`.
 > ⚡ **Battery:** old watch won't last sleep + full day. Charge in a fixed window (morning routine or post-gym) so it covers both.
