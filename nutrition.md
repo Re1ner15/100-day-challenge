@@ -114,5 +114,9 @@ _Day 3 closed. Protein locked via 3½ whey scoops before going out; evening = 2�
 | Epigamia Greek yogurt — 85 g | 8 | 4 | 4 | 80 |
 | Zest Lemongrass Chicken Banh Xeo (est.) | 22 | 35 | 18 | 390 |
 | Taiwanese Chicken Popcorn (est.) | 22 | 22 | 22 | 380 |
-| **RUNNING TOTAL** | **~87** | **~93** | **~55** | **~1,215** |
+| Whey — 1 scoop (ON) | 24 | 3 | 1.5 | 120 |
+| Isabgol — 1 scoop | 0 | 0 | 0 | 0 |
+| Paneer — 100 g (full-fat) | 18 | 3 | 20 | 296 |
+| 6 egg whites | 22 | 1 | 0 | 102 |
+| **RUNNING TOTAL** | **~151** | **~100** | **~77** | **~1,733** |
 | **TARGET** (low-carb) | 160–180 | ~50–80 | 60–80 | ~1,700 |
