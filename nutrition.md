@@ -97,7 +97,20 @@ _Day 2 closed. Est. deficit ~735 (2,700 TDEE − intake). Higher-carb day (clien
 | Coffee #2 (100 ml milk + ~10 g sugar) | 3 | 15 | 3 | 100 |
 | Long Island Iced Tea ×2½ (est.) | 0 | 80 | 0 | 825 |
 | Diet Coke ×1 | 0 | 0 | 0 | 0 |
-| **RUNNING TOTAL** | **~145** | **~156** | **~38** | **~2,050** |
+| **DAY TOTAL** | **~145** | **~156** | **~38** | **~2,050** |
 | **TARGET** (low-carb) | 160–180 | ~50–80 | 60–80 | ~1,700 |
 
-_Expected tonight (not yet logged): chicken starters — chicken in sauce, no carb/cheese/alcohol/sugary drinks. On-plan; will log a rough estimate once eaten._
+_Day 3 closed. Protein locked via 3½ whey scoops before going out; evening = 2½ LIITs. Still a big deficit on a 3-session day. Chicken starters never confirmed — not logged._
+
+### Day 4 — Thu 10 Sep (cardio + abs)
+
+**Eaten (confirmed):**
+| Meal | Protein (g) | Carbs (g) | Fat (g) | ~kcal |
+|------|-------------|-----------|---------|-------|
+| Whey — 1 scoop (ON) | 24 | 3 | 1.5 | 120 |
+| Sautéed veggies (1 bowl) | 3 | 8 | 5 | 90 |
+| Dal (1 bowl) | 8 | 20 | 4 | 150 |
+| Creatine — 1 scoop | 0 | 1 | 0 | 5 |
+| Epigamia Greek yogurt — 85 g | 8 | 4 | 4 | 80 |
+| **RUNNING TOTAL** | **~43** | **~36** | **~15** | **~445** |
+| **TARGET** (low-carb) | 160–180 | ~50–80 | 60–80 | ~1,700 |
