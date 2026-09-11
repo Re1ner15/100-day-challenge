@@ -140,5 +140,8 @@ _Day 4 closed. Best food day — protein 155 g, calories on target, deficit ~941
 | Bun maska | 5 | 30 | 13 | 260 |
 | Chicken + egg omelette | 30 | 4 | 22 | 330 |
 | Chicken keema | 28 | 8 | 18 | 310 |
-| **RUNNING TOTAL** | **~198** | **~154** | **~110** | **~2,400** |
+| Isabgol — 1 scoop | 0 | 0 | 0 | 0 |
+| **DAY TOTAL** | **~198** | **~154** | **~110** | **~2,400** |
 | **TARGET** (low-carb) | 160–180 | ~50–80 | 60–80 | ~1,700 |
+
+_Day 5 closed. Higher-carb evening ("wobble"), but protein 198 g (best of week) & still a deficit. Watch total burn 2,994 → deficit ~300 (fixed TDEE) to ~594 (watch)._
