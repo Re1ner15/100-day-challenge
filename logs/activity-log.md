@@ -28,6 +28,7 @@ Walks (daily), cardio (Tue/Thu), and anything else your watch tracks. Paste numb
 |------|------|------|--------|--------|-------------|-------|
 | Mon 7 Sep | Indoor Run (treadmill) | 21:52 | 138 | 152 | 184 (230 total) | 1.15 km, pace 18'53"/km, cadence 82 spm — post-lifting, Zone 1 |
 | Wed 9 Sep | Indoor Run (treadmill) | 20:34 | 140 | 152 | 187 (229 total) | 1.13 km, pace 18'06"/km, cadence 85 spm — post-Pull |
+| Fri 11 Sep | Indoor Run (treadmill) | 19:42 | 130 | 144 | 150 (191 total) | 1.00 km, pace 19'36"/km, cadence 77 spm — post-Legs |
 
 ## Abs (Tue / Thu)
 | Date | Exercises / circuit | Notes |
