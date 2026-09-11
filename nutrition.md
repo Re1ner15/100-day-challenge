@@ -135,5 +135,10 @@ _Day 4 closed. Best food day — protein 155 g, calories on target, deficit ~941
 | Venky's chicken lollipop ×8 (fried, est.) | 40 | 16 | 30 | 500 |
 | Dal (1 bowl) | 8 | 20 | 4 | 150 |
 | Sautéed veggies (1 bowl) | 3 | 8 | 5 | 90 |
-| **RUNNING TOTAL** | **~99** | **~53** | **~51** | **~1,080** |
+| Whey — 1 scoop (ON) | 24 | 3 | 1.5 | 120 |
+| Bread — 4 slices | 12 | 56 | 4 | 300 |
+| Bun maska | 5 | 30 | 13 | 260 |
+| Chicken + egg omelette | 30 | 4 | 22 | 330 |
+| Chicken keema | 28 | 8 | 18 | 310 |
+| **RUNNING TOTAL** | **~198** | **~154** | **~110** | **~2,400** |
 | **TARGET** (low-carb) | 160–180 | ~50–80 | 60–80 | ~1,700 |
