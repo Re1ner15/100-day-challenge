@@ -33,6 +33,17 @@ _Watch: strength 51:22 · avg HR 127 · max 161 · 391 active / 496 total kcal. 
 
 > Single-leg leg press skipped — do it next Legs to set a baseline.
 
+## Planned progressions (add when movement is a habit — not yet)
+Ease in first; layer these in once you're back in the swing (target ~Week 3–4, or as a fresh stimulus after the Week-8 deload). All are **unilateral / higher-skill** — they fix left/right imbalances, hit the muscle hard at lighter loads (joint- and lower-back-friendly), and add variety when the basics get stale.
+
+- **Single-leg leg extension** — evens out quad imbalances
+- **Single-leg leg press** — big stimulus, low spinal load
+- **Step-ups** — unilateral + balance + glute
+- **Weighted walking lunges** — progress from today's bodyweight
+- **Bulgarian split squats** — the highest-value single-leg builder; brutal but excellent
+
+Introduce **one at a time** (swap in for an existing exercise, don't just pile on) so we can still track progression cleanly.
+
 ### Week 2 targets — Fri 18 Sep
 | Exercise | Plan | Weights |
 |----------|------|---------|
