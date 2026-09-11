@@ -12,7 +12,7 @@ Walks (daily), cardio (Tue/Thu), and anything else your watch tracks. Paste numb
 | Mon 7 Sep | ~2,005 | 2,700 | ~695 | watch said 2,975 burn (inflated) |
 | Tue 8 Sep | ~1,965 | 2,700 | ~735 | 7.6 km walk; client misal |
 | Wed 9 Sep | ~2,050 | 2,700 baseline; actual higher | ~1,450–2,550 | **3 sessions**; Apple active 2,838 → total burn ~3,500–4,600. Evening = 2½ LIITs (~825 kcal) + diet coke; chicken starters not confirmed. |
-| Thu 10 Sep | 1,759 | 2,700 | ~941 | Recovery day: 2.25 km walk. Watch total burn 2,924 (→ watch-based deficit ~1,165, above the fixed-TDEE ~941). |
+| Thu 10 Sep | 1,759 | 2,700 | ~941 | Recovery day: 2.25 km walk. Watch total burn 3,043 (→ watch-based deficit ~1,284, well above fixed-TDEE ~941 — hints true TDEE >2,700). |
 
 **TDEE recalibration (after ~2 weeks):** avg daily intake + (fat lost in kcal ÷ days) = true TDEE. Update the 2,700 then.
 
@@ -40,6 +40,7 @@ Recovery = where muscle rebuilds + appetite hormones reset. Aim **7–8 h**. Sen
 | Night (→ wake date) | Time asleep | Notes (how rested, wake-ups) |
 |---------------------|-------------|------------------------------|
 | → Thu 10 Sep | 6 h 3 m | Sleep score 80 (OK) · fragmented — interruptions 14/20, several wake-ups ~5–6 AM · sleeping HR elevated (up to 90) · below 7–8 h target. Classic alcohol-disrupted night (late 3 AM bedtime + 2½ LIITs). |
+| → Fri 11 Sep | 6 h 17 m | **Bedtime 12:34 AM — ~3 h earlier than 3:31 AM avg (took the advice ✅).** Respiratory 12.5–19.5 (better, no alcohol). Still fragmented + short of 7–8 h; woke ~6:50 AM. |
 
 > Tip: from the iPhone Fitness app you can share a workout as an image, or export Health data — either works, just drop it in `uploads/`.
 > ⚡ **Battery:** old watch won't last sleep + full day. Charge in a fixed window (morning routine or post-gym) so it covers both.
