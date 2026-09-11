@@ -49,10 +49,9 @@
 
 | Today | Open this |
 |-------|-----------|
-| **Monday** | ➡️ [`workouts/legs.md`](./workouts/legs.md) |
-| **Wednesday** | ➡️ [`workouts/push.md`](./workouts/push.md) |
-| **Friday** | ➡️ [`workouts/pull.md`](./workouts/pull.md) |
-| Prep week (before Sep 7) | ➡️ [`prep/calibration.md`](./prep/calibration.md) |
+| **Monday** | ➡️ [`workouts/push.md`](./workouts/push.md) |
+| **Wednesday** | ➡️ [`workouts/pull.md`](./workouts/pull.md) |
+| **Friday** | ➡️ [`workouts/legs.md`](./workouts/legs.md) |
 
 **Not sure if a weight is right?** → [`reference/rir-cheatsheet.md`](./reference/rir-cheatsheet.md)
 
@@ -62,6 +61,7 @@
 | [`nutrition.md`](./nutrition.md) | Daily protein/calorie targets + food log + cheat-sheet | Daily |
 | [`logs/week-01-summary.md`](./logs/week-01-summary.md) | 📊 Week 1 dashboard + recap | Weekly |
 | [`WEEKLY-RITUAL.md`](./WEEKLY-RITUAL.md) | The repeatable weekly review process | Reference |
+| [`TRAVEL-AND-SCHEDULE.md`](./TRAVEL-AND-SCHEDULE.md) | Known disruptions + travel playbook | Reference |
 | [`logs/inbody-log.md`](./logs/inbody-log.md) | Weekly InBody scan (master signal) | Every Monday |
 | [`logs/inbody-history.md`](./logs/inbody-history.md) | Full scan history + trend + target | Reference |
 | [`logs/activity-log.md`](./logs/activity-log.md) | Apple Watch: walks, cardio, HR, calories | As you go |

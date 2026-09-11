@@ -9,15 +9,17 @@ _(4 of 5 training days done; Legs Fri + weekend pending. Regenerate: `python3 ch
 
 ![Week 1 InBody target](../charts/week-01-inbody.png)
 
-| Metric | Baseline (7 Sep) | 🎯 **Target** (14 Sep) | **Actual** (14 Sep scan) | Hit? |
+**Scan moved to Sun 13 Sep** (Ganeshotsav → no gym Mon; Push + InBody done Sun AM). That's a 6-day week, so targets trimmed slightly.
+
+| Metric | Baseline (7 Sep) | 🎯 **Target** (13 Sep) | **Actual** (13 Sep scan) | Hit? |
 |--------|------------------|------------------------|--------------------------|------|
-| Weight (kg) | 98.8 | **97.8** (−1.0) | _TBD_ | |
+| Weight (kg) | 98.8 | **98.1** (−0.7) | _TBD_ | |
 | Muscle SMM (kg) | 38.2 | **38.2** (hold) | _TBD_ | |
-| Fat mass (kg) | 32.2 | **31.4** (−0.8) | _TBD_ | |
-| Body fat % | 32.6 | **32.1** (−0.5) | _TBD_ | |
+| Fat mass (kg) | 32.2 | **31.5** (−0.7) | _TBD_ | |
+| Body fat % | 32.6 | **32.3** (−0.3) | _TBD_ | |
 | Visceral | 15 | **14** (−1) | _TBD_ | |
 
-_Actual fills in Monday; the chart redraws Target vs Actual side-by-side. Note: this week had 2 higher-carb/drinking days, so **water noise may mask the weight number** — read fat + muscle, not just the scale._
+_Actual fills in Sun; the chart redraws Target vs Actual side-by-side. **Big caveat:** carb-heavy Fri + the weekend before the scan → **water retention may hide the weight/scale drop.** Read **fat mass + SMM**, not the scale, for the real verdict._
 
 ## Daily numbers
 | Day | Training | kcal | Protein | Carbs | Fat | Est. deficit* | Notes |
