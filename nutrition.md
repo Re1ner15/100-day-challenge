@@ -119,5 +119,21 @@ _Day 3 closed. Protein locked via 3½ whey scoops before going out; evening = 2�
 | Paneer — 100 g (full-fat) | 18 | 3 | 20 | 296 |
 | 4 egg whites | 14 | 1 | 0 | 68 |
 | Whey — ½ scoop (ON) | 12 | 2 | 1 | 60 |
-| **RUNNING TOTAL** | **~155** | **~102** | **~78** | **~1,759** |
+| **DAY TOTAL** | **~155** | **~102** | **~78** | **~1,759** |
+| **TARGET** (low-carb) | 160–180 | ~50–80 | 60–80 | ~1,700 |
+
+_Day 4 closed. Best food day — protein 155 g, calories on target, deficit ~941. Watch total burn 3,043._
+
+### Day 5 — Fri 11 Sep (Legs day)
+
+**Eaten (confirmed):**
+| Meal | Protein (g) | Carbs (g) | Fat (g) | ~kcal |
+|------|-------------|-----------|---------|-------|
+| Whey — 1 scoop (ON) | 24 | 3 | 1.5 | 120 |
+| Tea w/ milk, no sugar (1 cup) | 2 | 3 | 1.5 | 40 |
+| Venky's grilled chicken ×1 serving | 22 | 3 | 9 | 180 |
+| Venky's chicken lollipop ×8 (fried, est.) | 40 | 16 | 30 | 500 |
+| Dal (1 bowl) | 8 | 20 | 4 | 150 |
+| Sautéed veggies (1 bowl) | 3 | 8 | 5 | 90 |
+| **RUNNING TOTAL** | **~99** | **~53** | **~51** | **~1,080** |
 | **TARGET** (low-carb) | 160–180 | ~50–80 | 60–80 | ~1,700 |
