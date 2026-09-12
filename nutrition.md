@@ -144,4 +144,4 @@ _Day 4 closed. Best food day — protein 155 g, calories on target, deficit ~941
 | **DAY TOTAL** | **~198** | **~154** | **~110** | **~2,400** |
 | **TARGET** (low-carb) | 160–180 | ~50–80 | 60–80 | ~1,700 |
 
-_Day 5 closed. Higher-carb evening ("wobble"), but protein 198 g (best of week) & still a deficit. Watch total burn 2,994 → deficit ~300 (fixed TDEE) to ~594 (watch)._
+_Day 5 closed. Higher-carb evening ("wobble"), but protein 198 g (best of week) & still a deficit. Watch total burn 3,203 (final) → deficit ~300 (fixed TDEE) to ~803 (watch)._
