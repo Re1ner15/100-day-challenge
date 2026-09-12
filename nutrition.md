@@ -145,3 +145,12 @@ _Day 4 closed. Best food day — protein 155 g, calories on target, deficit ~941
 | **TARGET** (low-carb) | 160–180 | ~50–80 | 60–80 | ~1,700 |
 
 _Day 5 closed. Higher-carb evening ("wobble"), but protein 198 g (best of week) & still a deficit. Watch total burn 3,203 (final) → deficit ~300 (fixed TDEE) to ~803 (watch)._
+
+### Day 6 — Sat 12 Sep (rest day)
+
+**Eaten (confirmed):**
+| Meal | Protein (g) | Carbs (g) | Fat (g) | ~kcal |
+|------|-------------|-----------|---------|-------|
+| Coffee (100 ml milk + ~10 g sugar) | 3 | 15 | 3 | 100 |
+| **RUNNING TOTAL** | **~3** | **~15** | **~3** | **~100** |
+| **TARGET** (low-carb) | 160–180 | ~50–80 | 60–80 | ~1,700 |
