@@ -156,5 +156,6 @@ _Day 5 closed. Higher-carb evening ("wobble"), but protein 198 g (best of week) 
 | Venky's chicken lollipop ×8 (fried, est.) | 40 | 16 | 30 | 500 |
 | Venky's grilled chicken (4 pcs, ~1 serving) | 22 | 3 | 9 | 180 |
 | Dal (1 bowl) | 8 | 20 | 4 | 150 |
-| **RUNNING TOTAL** | **~97** | **~57** | **~48** | **~1,050** |
+| Coffee #2 (100 ml milk + ~10 g sugar) | 3 | 15 | 3 | 100 |
+| **RUNNING TOTAL** | **~100** | **~72** | **~51** | **~1,150** |
 | **TARGET** (low-carb) | 160–180 | ~50–80 | 60–80 | ~1,700 |
