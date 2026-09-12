@@ -1,6 +1,8 @@
 # InBody Weekly Log
 
-**Protocol (fixed):** every **Monday, right after the morning walk**, same time of day, same clothes. Keeping it identical each week is what makes the trend readable — don't change the conditions mid-program.
+**Protocol (fixed):** same time of day, same clothes, **normally hydrated**, and **BEFORE the workout** (scan first, then lift/cardio). Keeping conditions identical is what makes the trend readable.
+
+> ⚠️ **Do NOT do intense/sweaty cardio before a scan.** InBody is bioimpedance — it reads body water. Dehydration from sweating distorts it (reads fat *higher*, muscle *lower*). A light walk is fine if kept consistent; a hard cardio session is not. Carb/sodium water clears on its own with a clean prior day — don't try to sweat it off.
 
 | Week | Date | Weight (kg) | Skeletal Muscle Mass (kg) | Body Fat Mass (kg) | Body Fat % | PBF trend | Notes / how training felt |
 |------|------|-------------|---------------------------|--------------------|-----------|-----------|---------------------------|
