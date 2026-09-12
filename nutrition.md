@@ -157,5 +157,7 @@ _Day 5 closed. Higher-carb evening ("wobble"), but protein 198 g (best of week) 
 | Venky's grilled chicken (4 pcs, ~1 serving) | 22 | 3 | 9 | 180 |
 | Dal (1 bowl) | 8 | 20 | 4 | 150 |
 | Coffee #2 (100 ml milk + ~10 g sugar) | 3 | 15 | 3 | 100 |
-| **RUNNING TOTAL** | **~100** | **~72** | **~51** | **~1,150** |
+| Isabgol — 1 scoop | 0 | 0 | 0 | 0 |
+| Whey — 1 scoop (ON) | 24 | 3 | 1.5 | 120 |
+| **RUNNING TOTAL** | **~124** | **~75** | **~53** | **~1,270** |
 | **TARGET** (low-carb) | 160–180 | ~50–80 | 60–80 | ~1,700 |
