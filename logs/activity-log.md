@@ -14,6 +14,7 @@ Walks (daily), cardio (Tue/Thu), and anything else your watch tracks. Paste numb
 | Wed 9 Sep | ~2,050 | 2,700 baseline; actual higher | ~1,450–2,550 | **3 sessions**; Apple active 2,838 → total burn ~3,500–4,600. Evening = 2½ LIITs (~825 kcal) + diet coke; chicken starters not confirmed. |
 | Thu 10 Sep | 1,759 | 2,700 | ~941 | Recovery day: 2.25 km walk. Watch total burn 3,043 (→ watch-based deficit ~1,284, well above fixed-TDEE ~941 — hints true TDEE >2,700). |
 | Fri 11 Sep | ~2,400 | 2,700 | ~300 | Legs + cardio (541 active). Watch FINAL: 920 active / **3,203 total burn** → watch deficit ~803. Higher-carb evening but protein 198 g. Steps 6,249 / 4.36 km. |
+| Sat 12 Sep | ~1,150 so far | 2,700 | (day in progress) | 5.05 km easy walk (383 active). Watch total 2,216 by 5:52 PM — undercounted (charging gap 1:28–4:29 PM). |
 
 **TDEE recalibration (after ~2 weeks):** avg daily intake + (fat lost in kcal ÷ days) = true TDEE. Update the 2,700 then.
 
@@ -23,6 +24,7 @@ Walks (daily), cardio (Tue/Thu), and anything else your watch tracks. Paste numb
 | Tue 8 Sep | 7.60 | 1:41:30 | 122 | 585 (795 total) | evening (5:21 PM), Zone 1, pace 13'21"/km, +41 m elev — **beat the 6–6.5 km target** ✅ |
 | Wed 9 Sep | 6.27 | 1:22:47 | 127 | 487 (658 total) | evening (5:22 PM), pace 13'12"/km, +13 m — on target ✅ |
 | Thu 10 Sep | 2.25 | 30:29 | 133 | 199 (262 total) | short recovery-day walk / cardio, uphill +28 m (Vetal Hill), pace 13'30"/km |
+| Sat 12 Sep | 5.05 | 1:07:26 | 117 | 383 (522 total) | easy Zone 1 walk (pre-scan), +44 m, pace 13'21"/km — nicely easy, not the "brutal" kind ✅ |
 
 ## Cardio (Tue / Thu)
 | Date | Type | Time | Avg HR | Max HR | Active kcal | Notes |
