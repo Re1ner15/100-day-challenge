@@ -9,17 +9,21 @@ _(4 of 5 training days done; Legs Fri + weekend pending. Regenerate: `python3 ch
 
 ![Week 1 InBody target](../charts/week-01-inbody.png)
 
-**Scan on Tue 15 Sep** (rest Sun + Ganeshotsav Mon closed the gym; scan + Push on Tue). 8-day window → Sun + Mon still count toward it, so keep them clean.
+**Scan done Sun 13 Sep** (6-day window).
 
-| Metric | Baseline (7 Sep) | 🎯 **Target** (15 Sep) | **Actual** (15 Sep scan) | Hit? |
-|--------|------------------|------------------------|--------------------------|------|
-| Weight (kg) | 98.8 | **98.0** (−0.8) | _TBD_ | |
-| Muscle SMM (kg) | 38.2 | **38.2** (hold) | _TBD_ | |
-| Fat mass (kg) | 32.2 | **31.4** (−0.8) | _TBD_ | |
-| Body fat % | 32.6 | **32.1** (−0.5) | _TBD_ | |
-| Visceral | 15 | **14** (−1) | _TBD_ | |
+| Metric | Baseline (7 Sep) | 🎯 Target | **Actual** (13 Sep) | Hit? |
+|--------|------------------|-----------|---------------------|------|
+| Weight (kg) | 98.8 | 98.0 (−0.8) | **99.3 (+0.5)** | ❌ (water — see below) |
+| Muscle SMM (kg) | 38.2 | hold | **39.3 (+1.1)** | ✅✅ up, not just held |
+| Fat mass (kg) | 32.2 | 31.4 (−0.8) | **30.9 (−1.3)** | ✅ beat target |
+| Body fat % | 32.6 | 32.1 (−0.5) | **31.2 (−1.4)** | ✅ beat target |
+| Visceral | 15 | 14 | **14** | ✅ hit |
+| InBody score | 69 | — | **72** | ✅ +3 |
 
-_Actual fills in Tue; the chart redraws Target vs Actual side-by-side. **Big caveat:** carb/festival food before the scan → **water retention may hide the weight/scale drop.** Read **fat mass + SMM**, not the scale, for the real verdict._
+### Verdict: 🎯 the system works — a textbook recomp
+Fat down, muscle up/held, visceral down, score up. The **only** "miss" is the scale (+0.5 kg) — and that's **water**, exactly as flagged: Total Body Water rose +1.2 L (glycogen from the weekend carbs + more muscle holds more water). **This is why we read fat + muscle, not the scale.**
+
+**Honest caveat on magnitude:** −1.3 kg fat *and* +1.1 kg muscle in 6 days is partly BIA hydration noise — glycogen refill reads as "muscle," so the true fat loss is likely ~0.7–1.0 kg with muscle held/slightly up. **Don't expect +1 kg muscle every week.** But the *direction* is unambiguous and excellent, and it beat the target. **We do NOT recalibrate TDEE off one noisy scan — wait for the multi-week trend.**
 
 ## Daily numbers
 | Day | Training | kcal | Protein | Carbs | Fat | Est. deficit* | Notes |

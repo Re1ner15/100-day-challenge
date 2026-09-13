@@ -7,7 +7,7 @@
 | Week | Date | Weight (kg) | Skeletal Muscle Mass (kg) | Body Fat Mass (kg) | Body Fat % | PBF trend | Notes / how training felt |
 |------|------|-------------|---------------------------|--------------------|-----------|-----------|---------------------------|
 | 1 (Day 1, baseline) | Mon 7 Sep | 98.8 | 38.2 | 32.2 | 32.6 | — | Score 69/100 · BMI 32.3 · visceral 15 · FFM 66.6 · protein 13.3 · BMR 1808 · W/H 1.07 |
-| 2  | Mon 14 Sep |  |  |  |  |  |  |
+| 2 (Wk1 result) | Sun 13 Sep | 99.3 | 39.3 | 30.9 | 31.2 | ↓ −1.4 | 🎯 Recomp: fat −1.3, SMM +1.1, visceral 15→14, score 69→72. Weight +0.5 = water (TBW +1.2 L). Magnitude partly BIA noise; direction clearly good. |
 | 3  | Mon 21 Sep |  |  |  |  |  |  |
 | 4  | Mon 28 Sep |  |  |  |  |  |  |
 | 5  | Mon 5 Oct  |  |  |  |  |  |  |

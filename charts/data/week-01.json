@@ -15,8 +15,8 @@
   ],
   "inbody": {
     "baseline": {"date": "Mon 7 Sep", "weight": 98.8, "smm": 38.2, "fat": 32.2, "pbf": 32.6, "visceral": 15},
-    "expected": {"date": "Tue 15 Sep", "weight": 98.0, "smm": 38.2, "fat": 31.4, "pbf": 32.1, "visceral": 14},
-    "expected_basis": "Scan on Tue 15 Sep (rest Sun + Ganeshotsav Mon) = 8-day window at ~800/day deficit ~= 0.8 kg fat; muscle held. NOTE: Sun+Mon still count toward this scan - keep them clean. Water from any carb/festival food may mask the scale; trust fat + SMM.",
-    "current": null
+    "expected": {"date": "Sun 13 Sep", "weight": 98.0, "smm": 38.2, "fat": 31.4, "pbf": 32.1, "visceral": 14},
+    "expected_basis": "Target: ~0.8 kg fat down, muscle held (~800/day deficit). Scan actually taken Sun 13 (6-day window).",
+    "current": {"date": "Sun 13 Sep", "weight": 99.3, "smm": 39.3, "fat": 30.9, "pbf": 31.2, "visceral": 14}
   }
 }
