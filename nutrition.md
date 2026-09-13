@@ -174,7 +174,13 @@ _Day 6 closed. Protein 181 g (great). Smart rice-skip kept carbs in check. ~1,92
 | Whey — 1 scoop (ON) | 24 | 3 | 1.5 | 120 |
 | Coffee (100 ml milk + ~10 g sugar) | 3 | 15 | 3 | 100 |
 | Creatine — 1 scoop | 0 | 1 | 0 | 5 |
-| Venky's grilled chicken ×2 orders | 44 | 6 | 18 | 360 |
+| Venky's grilled chicken ×1 serving | 22 | 3 | 9 | 180 |
 | Sautéed veggies (1 bowl) | 3 | 8 | 5 | 90 |
-| **RUNNING TOTAL** | **~74** | **~33** | **~28** | **~675** |
+| Whey — 1½ scoops (ON) | 36 | 5 | 2 | 180 |
+| Isabgol — 1 scoop | 0 | 0 | 0 | 0 |
+| Chicken Shish Kebab | 41 | 11 | 20 | 390 |
+| Chicken Shawarma Platter (wheat pita) | 56 | 58 | 39 | 806 |
+| **DAY TOTAL** | **~185** | **~104** | **~80** | **~1,871** |
 | **TARGET** (low-carb) | 160–180 | ~50–80 | 60–80 | ~1,700 |
+
+_Day 7 closed. Protein 185 g. ~1,871 kcal = ~830 deficit (fixed TDEE; no watch today). Ends Week 1._
