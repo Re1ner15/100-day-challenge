@@ -165,3 +165,16 @@ _Day 5 closed. Higher-carb evening ("wobble"), but protein 198 g (best of week) 
 | **TARGET** (low-carb) | 160–180 | ~50–80 | 60–80 | ~1,700 |
 
 _Day 6 closed. Protein 181 g (great). Smart rice-skip kept carbs in check. ~1,924 kcal = still a solid deficit (~925 vs ~2,850 real TDEE). Watch burn 3,043._
+
+### Day 7 — Sun 13 Sep (rest day · Week 1 scan done)
+
+**Eaten (confirmed):**
+| Meal | Protein (g) | Carbs (g) | Fat (g) | ~kcal |
+|------|-------------|-----------|---------|-------|
+| Whey — 1 scoop (ON) | 24 | 3 | 1.5 | 120 |
+| Coffee (100 ml milk + ~10 g sugar) | 3 | 15 | 3 | 100 |
+| Creatine — 1 scoop | 0 | 1 | 0 | 5 |
+| Venky's grilled chicken ×2 orders | 44 | 6 | 18 | 360 |
+| Sautéed veggies (1 bowl) | 3 | 8 | 5 | 90 |
+| **RUNNING TOTAL** | **~74** | **~33** | **~28** | **~675** |
+| **TARGET** (low-carb) | 160–180 | ~50–80 | 60–80 | ~1,700 |
