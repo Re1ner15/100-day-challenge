@@ -159,5 +159,9 @@ _Day 5 closed. Higher-carb evening ("wobble"), but protein 198 g (best of week) 
 | Coffee #2 (100 ml milk + ~10 g sugar) | 3 | 15 | 3 | 100 |
 | Isabgol — 1 scoop | 0 | 0 | 0 | 0 |
 | Whey — 1 scoop (ON) | 24 | 3 | 1.5 | 120 |
-| **RUNNING TOTAL** | **~124** | **~75** | **~53** | **~1,270** |
+| Lebanese Chicken Wrap | 29 | 32 | 20 | 424 |
+| Grilled Chicken Box — chicken + veg only (no rice) | 28 | 6 | 13 | 230 |
+| **DAY TOTAL** | **~181** | **~113** | **~86** | **~1,924** |
 | **TARGET** (low-carb) | 160–180 | ~50–80 | 60–80 | ~1,700 |
+
+_Day 6 closed. Protein 181 g (great). Smart rice-skip kept carbs in check. ~1,924 kcal = still a solid deficit (~925 vs ~2,850 real TDEE). Watch burn 3,043._

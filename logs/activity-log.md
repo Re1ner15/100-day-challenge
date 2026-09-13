@@ -14,7 +14,7 @@ Walks (daily), cardio (Tue/Thu), and anything else your watch tracks. Paste numb
 | Wed 9 Sep | ~2,050 | 2,700 baseline; actual higher | ~1,450–2,550 | **3 sessions**; Apple active 2,838 → total burn ~3,500–4,600. Evening = 2½ LIITs (~825 kcal) + diet coke; chicken starters not confirmed. |
 | Thu 10 Sep | 1,759 | 2,700 | ~941 | Recovery day: 2.25 km walk. Watch total burn 3,043 (→ watch-based deficit ~1,284, well above fixed-TDEE ~941 — hints true TDEE >2,700). |
 | Fri 11 Sep | ~2,400 | 2,700 | ~300 | Legs + cardio (541 active). Watch FINAL: 920 active / **3,203 total burn** → watch deficit ~803. Higher-carb evening but protein 198 g. Steps 6,249 / 4.36 km. |
-| Sat 12 Sep | ~1,270 (+dinner pending) | 2,700 | TBD | 5.05 km easy walk (383 active). Watch FINAL: 747 active / **3,043 total burn** (despite charging gap). Another day well above 2,700 TDEE. |
+| Sat 12 Sep | ~1,924 | 2,700 | ~776 | 5.05 km easy walk (383 active). Watch FINAL: 747 active / **3,043 total burn** → watch deficit ~1,119. Another day well above 2,700 TDEE. Protein 181 g. |
 
 **TDEE recalibration (after ~2 weeks):** avg daily intake + (fat lost in kcal ÷ days) = true TDEE. Update the 2,700 then.
 
