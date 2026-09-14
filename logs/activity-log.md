@@ -26,6 +26,7 @@ Walks (daily), cardio (Tue/Thu), and anything else your watch tracks. Paste numb
 | Wed 9 Sep | 6.27 | 1:22:47 | 127 | 487 (658 total) | evening (5:22 PM), pace 13'12"/km, +13 m — on target ✅ |
 | Thu 10 Sep | 2.25 | 30:29 | 133 | 199 (262 total) | short recovery-day walk / cardio, uphill +28 m (Vetal Hill), pace 13'30"/km |
 | Sat 12 Sep | 5.05 | 1:07:26 | 117 | 383 (522 total) | easy Zone 1 walk (pre-scan), +44 m, pace 13'21"/km — nicely easy, not the "brutal" kind ✅ |
+| Mon 14 Sep | 3.01 | 36:48 | 122 | 228 (305 total) | short festival-day walk (Ganeshotsav, family commitments), pace 12'13"/km |
 
 ## Cardio (Tue / Thu)
 | Date | Type | Time | Avg HR | Max HR | Active kcal | Notes |
