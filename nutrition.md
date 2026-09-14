@@ -184,3 +184,7 @@ _Day 6 closed. Protein 181 g (great). Smart rice-skip kept carbs in check. ~1,92
 | **TARGET** (low-carb) | 160–180 | ~50–80 | 60–80 | ~1,700 |
 
 _Day 7 closed. Protein 185 g. ~1,871 kcal = ~830 deficit (fixed TDEE; no watch today). Ends Week 1._
+
+### Day 8 — Mon 14 Sep (Ganeshotsav — untracked by design)
+Festival day. Food **not tracked** on purpose (exact portions not measurable). Protein floor secured via **2½ scoops whey + creatine**; strategy = protein/veg first, portion-aware, no overeating. One untracked day ≠ a dent in the weekly trend — the scan is the judge.
+_(Training: ex-trainer Push done, 617 kcal. Walk planned later.)_
