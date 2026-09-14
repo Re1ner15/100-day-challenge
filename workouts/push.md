@@ -48,7 +48,7 @@ Cell format per exercise = `set1 / set2 / set3` weights, and jot reps+RIR in Not
 | Wk | Flat Press | Incline DB | Chest Fly | Shldr Press | Side Raise | Pushdown | Dips | Notes (reps / RIR / feel) |
 |----|-----------|-----------|-----------|-------------|-----------|----------|------|---------------------------|
 | 1 (7 Sep, calib) | 10/15/15 | 10/12.5/15 | 40/45/50 | bar/bar/bar (8/6/5) | 7.5/7.5/7.5 | 35/40/45 | skipped | Watch: 1:00:20, avg HR 112, max 153, 480 kcal |
-| 2 |  |  |  |  |  |  |  |  |
+| 2 (14 Sep) | _ex-trainer variation — see session log below_ |  |  |  |  | 30/40/45 |  | 72 min · HR 111 · 617 kcal |
 | 3 |  |  |  |  |  |  |  |  |
 | 4 |  |  |  |  |  |  |  |  |
 | 5 |  |  |  |  |  |  |  |  |
@@ -61,3 +61,20 @@ Cell format per exercise = `set1 / set2 / set3` weights, and jot reps+RIR in Not
 | 12 |  |  |  |  |  |  |  |  |
 | 13 |  |  |  |  |  |  |  |  |
 | 14 |  |  |  |  |  |  |  |  |
+
+## Session log — variation days
+
+### Week 2 Push — Mon 14 Sep (ex-trainer, chest-focused variation)
+Different exercises from the standard Push, so it doesn't map to the Week-2 progression targets — treat as good one-off stimulus. Standard Push (with its progression) resumes next Push. _Watch: 1:12:25 · avg HR 111 (Zone 1 + 1:46 Zone 2) · 470 active / 617 total kcal._
+
+| Exercise | Sets |
+|----------|------|
+| Smith machine flat chest press | 10×12 / 20×10 / 25×8 |
+| Smith flat press — half-rep burnout | 25×6 |
+| Incline chest press (machine) | 15×12 / 15×10 / 20×8 |
+| Decline chest press (cable) | 25×12 / 30×10 / 35×8 |
+| Chest fly (dropset) | to failure (weights/reps not recorded) |
+| Cable shoulder bar pull | 30×15 / 35×~12 / 35×10 |
+| Tricep pushdown | 30×15 / 40×12 / 45×8 |
+
+> Tricep pushdown improved vs Week 1 (was 35/40/45 × 12/10/8 → now more reps at 30/40/45 × 15/12/8). Chest fly taken to failure — good intensity. Middle set of the cable shoulder move: reps unclear (you wrote "2", likely 12).
