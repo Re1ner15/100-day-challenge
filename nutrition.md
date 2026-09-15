@@ -188,3 +188,15 @@ _Day 7 closed. Protein 185 g. ~1,871 kcal = ~830 deficit (fixed TDEE; no watch t
 ### Day 8 — Mon 14 Sep (Ganeshotsav — untracked by design)
 Festival day. Food **not tracked** on purpose (exact portions not measurable). Protein floor secured via **2½ scoops whey + creatine**; strategy = protein/veg first, portion-aware, no overeating. One untracked day ≠ a dent in the weekly trend — the scan is the judge.
 _(Training: ex-trainer Push done, 617 kcal. Walk planned later.)_
+
+### Day 9 — Tue 15 Sep (cardio + abs)
+
+**Eaten (confirmed):**
+| Meal | Protein (g) | Carbs (g) | Fat (g) | ~kcal |
+|------|-------------|-----------|---------|-------|
+| Whey — 1 scoop (ON) | 24 | 3 | 1.5 | 120 |
+| Creatine — 1 scoop | 0 | 1 | 0 | 5 |
+| Dal (1 bowl) | 8 | 20 | 4 | 150 |
+| Sautéed veggies (1 bowl) | 3 | 8 | 5 | 90 |
+| **RUNNING TOTAL** | **~35** | **~32** | **~11** | **~365** |
+| **TARGET** (low-carb) | 160–180 | ~50–80 | 60–80 | ~1,700 |
