@@ -16,7 +16,7 @@ Walks (daily), cardio (Tue/Thu), and anything else your watch tracks. Paste numb
 | Fri 11 Sep | ~2,400 | 2,700 | ~300 | Legs + cardio (541 active). Watch FINAL: 920 active / **3,203 total burn** → watch deficit ~803. Higher-carb evening but protein 198 g. Steps 6,249 / 4.36 km. |
 | Sat 12 Sep | ~1,924 | 2,700 | ~776 | 5.05 km easy walk (383 active). Watch FINAL: 747 active / **3,043 total burn** → watch deficit ~1,119. Another day well above 2,700 TDEE. Protein 181 g. |
 | Sun 13 Sep | ~1,871 | 2,700 | ~830 | **No watch — device break.** Nutrition tracked (185 g protein); no activity/sleep data. |
-| Mon 14 Sep | untracked (festival) | 2,700 | n/a | Ganeshotsav. Push (ex-trainer) + 3 km walk. Watch: 1,014 active / **3,208 total burn** (undercount — off wrist 1–2 h; TDEE likely ~2,900+). Food untracked — deficit unknown, protein secured via whey. |
+| Mon 14 Sep | untracked (festival) | 2,700 | n/a | Ganeshotsav. Push (ex-trainer) + 3 km walk. Watch FINAL: 1,021 active / **3,281 total burn** (TDEE likely ~2,900+). Food untracked — deficit unknown, protein secured via whey. |
 
 **TDEE recalibration (after ~2 weeks):** avg daily intake + (fat lost in kcal ÷ days) = true TDEE. Update the 2,700 then.
 
@@ -50,6 +50,7 @@ Recovery = where muscle rebuilds + appetite hormones reset. Aim **7–8 h**. Sen
 | → Fri 11 Sep | 6 h 17 m | **Bedtime 12:34 AM — ~3 h earlier than 3:31 AM avg (took the advice ✅).** Respiratory 12.5–19.5 (better, no alcohol). Still fragmented + short of 7–8 h; woke ~6:50 AM. |
 | → Sat 12 Sep | 6 h 22 m | **Sleep score 81 (HIGH) — best of the week.** Bedtime 10:51 PM (vs 2:02 AM avg — much earlier ✅), fewer interruptions (18/20). Still short of 7–8 h but bedtime trend is clearly improving (3:31 → 12:34 → 10:51). |
 | → Sun 13 Sep | 6 h 38 m | **Best duration of the week.** Bedtime 12:46 AM (avg now 12:58 AM — down from 3:31 a week ago). Still some fragmentation, but duration is climbing: 6h03 → 6h17 → 6h22 → **6h38**. |
+| → Tue 15 Sep | **7 h 52 m** | 🎉 **FIRST 7h+ night of the program** (nearly 8h). Bedtime 11:58 PM (58 min earlier than 12:55 avg). Good REM + deep cycles. Nailed the #1 Week-2 lever on night 1. |
 
 > Tip: from the iPhone Fitness app you can share a workout as an image, or export Health data — either works, just drop it in `uploads/`.
 > ⚡ **Battery:** old watch won't last sleep + full day. Charge in a fixed window (morning routine or post-gym) so it covers both.
