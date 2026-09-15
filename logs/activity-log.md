@@ -17,6 +17,7 @@ Walks (daily), cardio (Tue/Thu), and anything else your watch tracks. Paste numb
 | Sat 12 Sep | ~1,924 | 2,700 | ~776 | 5.05 km easy walk (383 active). Watch FINAL: 747 active / **3,043 total burn** → watch deficit ~1,119. Another day well above 2,700 TDEE. Protein 181 g. |
 | Sun 13 Sep | ~1,871 | 2,700 | ~830 | **No watch — device break.** Nutrition tracked (185 g protein); no activity/sleep data. |
 | Mon 14 Sep | untracked (festival) | 2,700 | n/a | Ganeshotsav. Push (ex-trainer) + 3 km walk. Watch FINAL: 1,021 active / **3,281 total burn** (TDEE likely ~2,900+). Food untracked — deficit unknown, protein secured via whey. |
+| Tue 15 Sep | ~1,402 | 2,700 | ~1,298 | Cardio + abs + 6.13 km (2 walks). Watch by 9:24 PM: 1,010 active / 3,058 total burn; **13,701 steps / 9.88 km — best step day.** |
 | Tue 15 Sep | ~1,402 | 2,700 | ~1,298 | **Biggest movement day: 13,701 steps / 9.88 km** (2 walks + cardio + abs). Watch 1,010 active / 2,058 total by 9:24 PM (gaps today). |
 
 **TDEE recalibration (after ~2 weeks):** avg daily intake + (fat lost in kcal ÷ days) = true TDEE. Update the 2,700 then.
