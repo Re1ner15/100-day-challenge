@@ -35,11 +35,12 @@ Walks (daily), cardio (Tue/Thu), and anything else your watch tracks. Paste numb
 | Mon 7 Sep | Indoor Run (treadmill) | 21:52 | 138 | 152 | 184 (230 total) | 1.15 km, pace 18'53"/km, cadence 82 spm — post-lifting, Zone 1 |
 | Wed 9 Sep | Indoor Run (treadmill) | 20:34 | 140 | 152 | 187 (229 total) | 1.13 km, pace 18'06"/km, cadence 85 spm — post-Pull |
 | Fri 11 Sep | Indoor Run (treadmill) | 19:42 | 130 | 144 | 150 (191 total) | 1.00 km, pace 19'36"/km, cadence 77 spm — post-Legs |
+| Tue 15 Sep | Indoor Run (treadmill) | 25:42 | 117 | — | 183 (236 total) | 1.30 km, pace 19'43"/km — easy Zone 1 |
 
 ## Abs (Tue / Thu)
 | Date | Exercises / circuit | Notes |
 |------|---------------------|-------|
-|  |  |  |
+| Tue 15 Sep | Core Training — 10 min (avg HR 111, 68 kcal) | ✅ **First abs session of the program** — closed the Week 1 gap |
 
 ## Sleep (Apple Watch)
 Recovery = where muscle rebuilds + appetite hormones reset. Aim **7–8 h**. Send hours + how rested you felt.
