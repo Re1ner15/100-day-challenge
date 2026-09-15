@@ -198,5 +198,9 @@ _(Training: ex-trainer Push done, 617 kcal. Walk planned later.)_
 | Creatine — 1 scoop | 0 | 1 | 0 | 5 |
 | Dal (1 bowl) | 8 | 20 | 4 | 150 |
 | Sautéed veggies (1 bowl) | 3 | 8 | 5 | 90 |
-| **RUNNING TOTAL** | **~35** | **~32** | **~11** | **~365** |
+| Whey — 1 scoop (ON) | 24 | 3 | 1.5 | 120 |
+| Isabgol — 1 scoop | 0 | 0 | 0 | 0 |
+| Shish Taouk Kebab | 40 | 10 | 23 | 405 |
+| Hummus w/ Chicken Shawarma Shreds (+pita) | 34 | 42 | 23 | 512 |
+| **RUNNING TOTAL** | **~133** | **~87** | **~59** | **~1,402** |
 | **TARGET** (low-carb) | 160–180 | ~50–80 | 60–80 | ~1,700 |

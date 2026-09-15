@@ -28,6 +28,7 @@ Walks (daily), cardio (Tue/Thu), and anything else your watch tracks. Paste numb
 | Thu 10 Sep | 2.25 | 30:29 | 133 | 199 (262 total) | short recovery-day walk / cardio, uphill +28 m (Vetal Hill), pace 13'30"/km |
 | Sat 12 Sep | 5.05 | 1:07:26 | 117 | 383 (522 total) | easy Zone 1 walk (pre-scan), +44 m, pace 13'21"/km — nicely easy, not the "brutal" kind ✅ |
 | Mon 14 Sep | 3.01 | 36:48 | 122 | 228 (305 total) | short festival-day walk (Ganeshotsav, family commitments), pace 12'13"/km |
+| Tue 15 Sep | **6.13** (2 walks) | 38:20 + 43:04 | 121/124 | 472 (640 total) | 3.00 km (5:34 PM) + 3.13 km (8:30 PM) — **hit the 6 km target** ✅ (split into two) |
 
 ## Cardio (Tue / Thu)
 | Date | Type | Time | Avg HR | Max HR | Active kcal | Notes |
@@ -35,6 +36,7 @@ Walks (daily), cardio (Tue/Thu), and anything else your watch tracks. Paste numb
 | Mon 7 Sep | Indoor Run (treadmill) | 21:52 | 138 | 152 | 184 (230 total) | 1.15 km, pace 18'53"/km, cadence 82 spm — post-lifting, Zone 1 |
 | Wed 9 Sep | Indoor Run (treadmill) | 20:34 | 140 | 152 | 187 (229 total) | 1.13 km, pace 18'06"/km, cadence 85 spm — post-Pull |
 | Fri 11 Sep | Indoor Run (treadmill) | 19:42 | 130 | 144 | 150 (191 total) | 1.00 km, pace 19'36"/km, cadence 77 spm — post-Legs |
+| Tue 15 Sep | Indoor Run (treadmill) | 25:42 | 117 | — | 183 (236 total) | 1.30 km, pace 19'43"/km — light cardio (Zone 1) |
 | Tue 15 Sep | Indoor Run (treadmill) | 25:42 | 117 | — | 183 (236 total) | 1.30 km, pace 19'43"/km — easy Zone 1 |
 
 ## Abs (Tue / Thu)
